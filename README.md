@@ -24,7 +24,7 @@ Things you may want to cover:
 - Start
 
   ```bash
-  docker-compose -f build && docker-compose -f up
+  docker-compose build && docker-compose up
   ```
 
 - Stop
